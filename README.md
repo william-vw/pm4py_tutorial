@@ -1,10 +1,9 @@
-# Links
-[Tutorial](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-4-912286ee51b)  
-[Original repo](https://gitlab.com/healthcare2/process-mining-tutorial/-/tree/master/)
-
 # process-mining-tutorial
 
-This project contains the code and data for the process mining in healthcare tutorial. 
+This project contains the code and data for the process mining in healthcare tutorial.  
+
+It is an updated version of another [tutorial](https://medium.com/@c3_62722/process-mining-with-python-tutorial-a-healthcare-application-part-4-912286ee51b) that fixes some links and outdated code ([original repo](https://gitlab.com/healthcare2/process-mining-tutorial/-/tree/master/)).
+
 
 ## Installing pm4py
 
@@ -19,6 +18,6 @@ For Windows:
 
 
 ## Further reading
-[Old (2010) but accessible blog post on the different [process discovery algorithms](https://fluxicon.com/blog/2010/10/prom-tips-mining-algorithm/)
-[A PhD thesis with useful notes on the algorithms](http://dbis.eprints.uni-ulm.de/1682/1/MA_BRE_2018.pdf)
+Old (2010) but accessible blog post on the different [process discovery algorithms](https://fluxicon.com/blog/2010/10/prom-tips-mining-algorithm/)  
+A PhD thesis with [useful notes on the algorithms](http://dbis.eprints.uni-ulm.de/1682/1/MA_BRE_2018.pdf)
 
