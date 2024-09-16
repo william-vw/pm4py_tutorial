@@ -1,0 +1,10 @@
+case:concept:name,concept:name,time:timestamp
+patientA,Decision1,2024-09-16 00:00:00
+patientA,Decision2,2024-09-16 00:00:01
+patientA,Decision3,2024-09-16 00:00:02
+patientB,Decision1,2024-09-16 00:00:00
+patientB,Decision2,2024-09-16 00:00:01
+patientB,Decision3,2024-09-16 00:00:02
+patientC,Decision1,2024-09-16 00:00:00
+patientC,Decision4,2024-09-16 00:00:01
+patientC,Decision5,2024-09-16 00:00:02
